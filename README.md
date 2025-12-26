@@ -42,9 +42,7 @@ The repositories here are **sanitised case studies, experiments, and recreations
 Some themes you’ll find in my projects:
 - 📊 **Quality & Defect Analysis Frameworks**  
 - 📈 **KPI Redesign & Benchmarking Models**  
-- 🧩 **Operational & Resource Optimisation Studies**  
-- 🔍 **Governance & Audit Readiness Dashboards**  
-- 🧠 **Decision-Support Tools for Leadership**
+
 
 Each project focuses heavily on:
 - Problem framing  
@@ -56,14 +54,14 @@ Each project focuses heavily on:
 
 ## 📈 GitHub Stats & Activity
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
+![Profile Views]([https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat](https://komarev.com/ghpvc/?username=JonathanRyanRichard&color=blue&style=flat))
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jonathanryanrichard07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-ryan-richard/)
+
 
 ---
 
