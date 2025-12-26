@@ -1,4 +1,4 @@
-# Hi, I’m Jonathan 👋
+# Hey there, I’m Jonathan Ryan 👋
 
 I’m an **analytical problem solver** and **Project Management Office (PMO) Executive** with a strong focus on **governance, audit, and decision support**.  
 My work sits at the intersection of **data, structure, and strategy** — breaking down complex operational problems and turning them into clear, actionable insights.
@@ -7,7 +7,7 @@ While I use technology as an enabler, my core strength lies in **analytical thin
 
 ---
 
-## 🧠 What I Do Best
+## 🧠 What I Specalise In
 - Transform ambiguous problems into structured, solvable questions  
 - Design **KPIs and metrics** that actually drive the right behaviour  
 - Apply **data-driven analysis** to governance, quality, and delivery challenges  
