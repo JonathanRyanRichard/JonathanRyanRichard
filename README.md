@@ -54,7 +54,7 @@ Each project focuses heavily on:
 
 ## 📈 GitHub Stats & Activity
 
-![Profile Views]([https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat](https://komarev.com/ghpvc/?username=JonathanRyanRichard&color=blue&style=flat))
+![Profile Views]([https://komarev.com/ghpvc/?username=JonathanRyanRichard&color=blue&style=flat]
 
 ---
 
